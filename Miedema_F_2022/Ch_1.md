@@ -1,2 +1,10 @@
 # Science and Society: an overview of the problem
-This chapter is to be discussed during week 1. Prompts will be shared on 26-Jan.
+**In §1.1 A Call For Action, Miedema says science must be “mission-oriented”, and that “SSH including economy and political sciences have a lot to offer”. Do you agree with this? Or might there be a case for science (or only some research fields) to not purposefully “target public and social means“?**
+
+**In §1.2, Miedema introduces a problematic idea: that there is a social contract for science that produces a “state within a state” with a “culture and politics are until this day largely determined by old ideas originating from the first half of the twentieth century”. Do you agree with the “state within a state” analogy? We are yet to see Miedema's argument for early 1900s philosophy as setting the foundations for modern academic cultures, but are there other factors that spring to mind as causing today's "social contract for science"?**
+
+**§1.3 introduces the rise of what today we call the sociology of science. A related term might be metascience. This very book can be broadly seen as falling in such a field. What got you interested in engaging with this way of thinking about science?**
+
+**When revisiting the social contract for science in §1.4, the author introduces two perspectives on distinguishing research fields. Firstly, Snow ([1990](https://doi.org/10.2307/1578601)) speaks of a question of socioeconomic class. Secondly, Medawar ([1967](https://www.routledge.com/The-Art-of-the-Soluble/Medawar/p/book/9781032116815)) speaks of applied vs. pure sciences. In what contexts have you encountered either of these accounts? Would you like to suggest another way of distinguishing research fields?**
+
+**§1.5 The Politics of Scientific Choice introduces some of the work by early scholars in the sociology of science.  A key idea is that science should be self-governed. Conversely, Miedema mentions the “scientific humanists” who wanted science to engage more proactively with the public. Whilst I imagine that your being a part of OLS means you might fall under some broad notion of “scientific humanist“, I would be curious to know if you think there are any good arguments for the public not to be part of the scientific process.**
