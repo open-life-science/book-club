@@ -4,7 +4,7 @@
 
 **§3.2. and §3.4. both mentioned the influence of funders on the design of research questions. Is this a topic that you have thought about, and why might it be worrying?**
 
-**In §3.5., Miedema outlines some concerns relating with the proliferation of impact factors and other key performance indicators on the quality of research. I think it is worth celebrating some of the parody KPIs that have recently emerged. For example, the k-index (https://en.wikipedia.org/wiki/Kardashian_Index). Do you have any other examples of parody metrics that demonstrate what little value "serious" indicators have?**
+**In §3.5., Miedema outlines some concerns relating with the proliferation of impact factors and other key performance indicators on the quality of research. I think it is worth celebrating some of the parody KPIs that have recently emerged. For example, the [k-index](https://en.wikipedia.org/wiki/Kardashian_Index). Do you have any other examples of parody metrics that demonstrate what little value "serious" indicators have?**
 
 **Page 88 mentions the sort of “excellence” that became linked to scientific work as performance indicators gained traction. “Elitism” is also used on page 89. Are these terms that you would use when describing academic work, or what it takes to succeed in academia? Why or why not?**
 
