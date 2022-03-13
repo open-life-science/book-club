@@ -14,11 +14,10 @@ The schedule for discussing the book is as follows:
 | 2 | 02-06 Feb | Chapter 2, §2.1. |
 | 3 | 09-13 Feb | Chapter 2, §2.2-2.3 |
 | 4 | 16-20 Feb | Chapter 3, §3.1-3.9 |
-| 5 | 23-27 Feb | Chapter 3, §3.10-3.15 |
-| 6 | 02-06 Mar | Chapter 4 |
-| 7 | 09-13 Mar | Chapter 5 |
-| 8 | 16-20 Mar | Chapter 6 |
-| 9 | 23-27 Mar | Chapter 7 |
+| 5 | 23-27 Feb | Chapter 4 |
+| 6 | 02-06 Mar | Chapter 5 |
+| 7 | 09-13 Mar | Chapter 6 |
+| 8 | 16-20 Mar | Chapter 7 |
 
 # Some Generic Questions
 Three generic questions are that book club meetings can turn to are:
