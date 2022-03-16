@@ -6,7 +6,7 @@
 
 **In §7.7., Miedema references some concerns about the open science movement, including that it is "naive or the next neoliberal trick" (202). Miedema does not present the concerns very convincingly, nor does he respond to them adequately. Do you have a more convincing notion of the concerns? Are there any responses you would like to give to the concerns raised? In particular, are there any open access models that you find do not disadvantage scholars in the global south?**
 
-**In §7.8., Professor Mamokgethi Phakeng asks three questions worth discussing:**
+**In §7.8., we see a speech of Phakeng ([2018](https://www.news.uct.ac.za/article/-2018-07-05-why-care-about-how-we-assess-research-impact)) asking three questions worth discussing:**
 
 * **What are the shared values between research and sound democracy?**
 * **Should all of our research be for the public good?**
