@@ -13,7 +13,7 @@ The schedule for discussing the book is as follows:
 | 1 | 26-30 Jan | Chapter 1 |
 | 2 | 02-06 Feb | Chapter 2, §2.1. |
 | 3 | 09-13 Feb | Chapter 2, §2.2-2.3 |
-| 4 | 16-20 Feb | Chapter 3, §3.1-3.9 |
+| 4 | 16-20 Feb | Chapter 3 |
 | 5 | 23-27 Feb | Chapter 4 |
 | 6 | 02-06 Mar | Chapter 5 |
 | 7 | 09-13 Mar | Chapter 6 |
