@@ -1,4 +1,4 @@
-# I am not disabled: Difference, ethics, critique and refusal of neoliberal academic selves**
+# I am not disabled: Difference, ethics, critique and refusal of neoliberal academic selves
 
 by Francesca Peruzzo
 
