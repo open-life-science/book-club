@@ -6,7 +6,7 @@ by Nicola Martin
 
 **Did you find any of the comments from Martin's research participants surprising?**
 
-**Focussing on leadership, below are some of the traits the research participants identified in leaders. Have you seen these in action? Do you have examples where such traits would have helped?**
+**Focussing on leadership, below are some of the traits the research participants identified in their leadership styles. Have you seen these in action? Do you have examples where such traits would have helped?**
 
 * **"Empathising with and encouraging colleagues, collaboration, proactively developing diverse, cohesive, organised teams with a shared vision and not taking credit for the work of others [...];**
 * **Openness of leadership boundaries to enable a broader range of individuals and groups to contribute a variety of expertise [...];**
